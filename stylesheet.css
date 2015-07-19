@@ -1,4 +1,5 @@
-.ten columns div ul{
+ul{
 	display:inline-block;
-	background-color:blue;
+	background-color:red;
+	color:blue;
 }
