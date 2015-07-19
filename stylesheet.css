@@ -2,7 +2,11 @@
 
 .row img{
 	position:relative;
-	height:20%;
-	width:auto;
+	float:center;
 
+}
+
+.ten columns{
+	display:inline-block;
+	padding:2px;
 }
