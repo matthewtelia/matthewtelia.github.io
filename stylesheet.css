@@ -6,7 +6,8 @@
 
 }
 
-.ten columns{
-	display:inline-block;
-	padding:2px;
+#nav_bar{
+	position:relative;
+	float:left;
+	color:red;
 }
