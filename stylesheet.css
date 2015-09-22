@@ -1,14 +1,31 @@
-
-.row img{
-	position:relative;
-	float:center;
-
+.section {
+  text-align: center;
+}
+.hero {
+  padding: 4rem 0 4rem;
+  background-color: black;
+  color: white;
 }
 
-#nav_bar{
-	margin-top:;
-	position:relative;
-	float:left;
-	
+.circle img{
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 
+.values{
+  padding: 2rem 0 8rem;
+}
+
+.header{
+	text-align:left;
+	margin-top:2rem;
+	margin-left:2rem;
+}
+
+/*body > div > div > div > div:nth-child(2) > a{
+	width:30rem;
+}*/
+
+.button.button-primary{
+	width:30rem;
+}
